@@ -36,5 +36,5 @@
 
 ### 📫 Connect with Me
 
-* LinkedIn *linkedin.com/in/adithya-nair-527789399*
+* LinkedIn: *linkedin.com/in/adithya-nair-527789399*
 * GitHub: https://github.com/Adithyanair098
