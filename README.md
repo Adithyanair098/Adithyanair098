@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Adithya Nair 👋
 
-<!--
-**Adithyanair098/Adithyanair098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
 
-Here are some ideas to get you started:
+* 🎓 ECE Undergraduate at **IIIT Trichy**
+* 📱 Flutter Developer
+* 🤖 Currently learning **Machine Learning**
+* 💻 Interested in Software Engineering, AI and Mobile Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Currently Working On
+
+* 📱 **Calivio** – AI-powered nutrition tracking application built with Flutter and Google Gemini AI.
+
+---
+
+### 🌱 Currently Learning
+
+* Machine Learning
+* Python
+* Data Structures & Algorithms
+* Flutter Development
+
+---
+
+### 🛠️ Tech Stack
+
+* **Languages:** Dart, Python, C++
+* **Frameworks:** Flutter
+* **Database:** SQLite
+* **Tools:** Git, GitHub, VS Code
+* **AI:** Google Gemini AI
+
+---
+
+### 📫 Connect with Me
+
+* LinkedIn *(Coming Soon)*
+* GitHub: https://github.com/Adithyanair098
