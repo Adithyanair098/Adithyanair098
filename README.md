@@ -3,7 +3,7 @@
 ### 🎓 About Me
 
 * 🎓 ECE Undergraduate at **IIIT Trichy**
-* 🤖 Currently learning **Machine Learning**
+* 🤖 Currently learning **Deep Learning**
 * 💻 Interested in Software Engineering, AI and Mobile Development
 
 ---
