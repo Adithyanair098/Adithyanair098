@@ -3,7 +3,6 @@
 ### 🎓 About Me
 
 * 🎓 ECE Undergraduate at **IIIT Trichy**
-* 📱 Flutter Developer
 * 🤖 Currently learning **Machine Learning**
 * 💻 Interested in Software Engineering, AI and Mobile Development
 
@@ -11,7 +10,7 @@
 
 ### 🚀 Currently Working On
 
-* 📱 **Calivio** – AI-powered nutrition tracking application built with Flutter and Google Gemini AI.
+* Currently exploring the fundamentals of Deep Learning through Andrej Karpathy's tutorials, building a strong foundation in neural networks, backpropagation, gradient descent, optimization, and model training. Learning to implement neural networks from scratch using Python and PyTorch, with a focus on understanding the mathematics and principles behind modern AI systems.
 
 ---
 
@@ -20,14 +19,14 @@
 * Machine Learning
 * Python
 * Data Structures & Algorithms
-* Flutter Development
+* Deep Learning and Neural Network
 
 ---
 
 ### 🛠️ Tech Stack
 
-* **Languages:** Dart, Python, C++
-* **Frameworks:** Flutter
+* **Languages:** Python, C++
+* **Frameworks:** Pytorch, TensorFlow, Keras
 * **Database:** SQLite
 * **Tools:** Git, GitHub, VS Code
 * **AI:** Google Gemini AI
